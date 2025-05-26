@@ -1,0 +1,182 @@
+İnşaat başlatılıyor...
+Tüm inşaat tamamlandı.
+ladı.
+[Kat 1] Daire 4: Tesisat işlemi başladı.
+[Kat 1] Daire 2: Tesisat işlemi başladı.
+[Kat 1] Daire 1: Tesisat işlemi başladı.
+[Kat 1] Daire 3: Tesisat işlemi başladı.
+[Kat 1] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 1] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 1] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 1] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 1] Daire 4: İç tasarım başladı.
+[Kat 1] Daire 1: İç tasarım başladı.
+[Kat 1] Daire 3: İç tasarım başladı.
+[Kat 1] Daire 2: İç tasarım başladı.
+[Kat 1] Daire 3: İnşaat tamamlandı.
+[Kat 1] Daire 2: İnşaat tamamlandı.
+[Kat 1] Daire 1: İnşaat tamamlandı.
+[Kat 1] Daire 4: İnşaat tamamlandı.
+[Kat 1]: Kat inşaatı tamamlandı.
+[Kat 2]: Kat inşaatı başladı.
+[Kat 2] Daire 2: Tesisat işlemi başladı.
+[Kat 2] Daire 1: Tesisat işlemi başladı.
+[Kat 2] Daire 3: Tesisat işlemi başladı.
+[Kat 2] Daire 4: Tesisat işlemi başladı.
+[Kat 2] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 2] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 2] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 2] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 2] Daire 4: İç tasarım başladı.
+[Kat 2] Daire 1: İç tasarım başladı.
+[Kat 2] Daire 2: İç tasarım başladı.
+[Kat 2] Daire 3: İç tasarım başladı.
+[Kat 2] Daire 4: İnşaat tamamlandı.
+[Kat 2] Daire 1: İnşaat tamamlandı.
+[Kat 2] Daire 3: İnşaat tamamlandı.
+[Kat 2] Daire 2: İnşaat tamamlandı.
+[Kat 2]: Kat inşaatı tamamlandı.
+[Kat 3]: Kat inşaatı başladı.
+[Kat 3] Daire 3: Tesisat işlemi başladı.
+[Kat 3] Daire 2: Tesisat işlemi başladı.
+[Kat 3] Daire 1: Tesisat işlemi başladı.
+[Kat 3] Daire 4: Tesisat işlemi başladı.
+[Kat 3] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 3] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 3] Daire 2: İç tasarım başladı.
+[Kat 3] Daire 3: İç tasarım başladı.
+[Kat 3] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 3] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 3] Daire 1: İç tasarım başladı.
+[Kat 3] Daire 4: İç tasarım başladı.
+[Kat 3] Daire 1: İnşaat tamamlandı.
+[Kat 3] Daire 4: İnşaat tamamlandı.
+[Kat 3] Daire 3: İnşaat tamamlandı.
+[Kat 3] Daire 2: İnşaat tamamlandı.
+[Kat 3]: Kat inşaatı tamamlandı.
+[Kat 4]: Kat inşaatı başladı.
+[Kat 4] Daire 2: Tesisat işlemi başladı.
+[Kat 4] Daire 3: Tesisat işlemi başladı.
+[Kat 4] Daire 4: Tesisat işlemi başladı.
+[Kat 4] Daire 1: Tesisat işlemi başladı.
+[Kat 4] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 4] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 4] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 4] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 4] Daire 1: İç tasarım başladı.
+[Kat 4] Daire 4: İç tasarım başladı.
+[Kat 4] Daire 3: İç tasarım başladı.
+[Kat 4] Daire 2: İç tasarım başladı.
+[Kat 4] Daire 4: İnşaat tamamlandı.
+[Kat 4] Daire 1: İnşaat tamamlandı.
+[Kat 4] Daire 3: İnşaat tamamlandı.
+[Kat 4] Daire 2: İnşaat tamamlandı.
+[Kat 4]: Kat inşaatı tamamlandı.
+[Kat 5]: Kat inşaatı başladı.
+[Kat 5] Daire 1: Tesisat işlemi başladı.
+[Kat 5] Daire 4: Tesisat işlemi başladı.
+[Kat 5] Daire 3: Tesisat işlemi başladı.
+[Kat 5] Daire 2: Tesisat işlemi başladı.
+[Kat 5] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 5] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 5] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 5] Daire 4: İç tasarım başladı.
+[Kat 5] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 5] Daire 1: İç tasarım başladı.
+[Kat 5] Daire 3: İç tasarım başladı.
+[Kat 5] Daire 2: İç tasarım başladı.
+[Kat 5] Daire 4: İnşaat tamamlandı.
+[Kat 5] Daire 1: İnşaat tamamlandı.
+[Kat 5] Daire 2: İnşaat tamamlandı.
+[Kat 5] Daire 3: İnşaat tamamlandı.
+[Kat 5]: Kat inşaatı tamamlandı.
+[Kat 6]: Kat inşaatı başladı.
+[Kat 6] Daire 1: Tesisat işlemi başladı.
+[Kat 6] Daire 3: Tesisat işlemi başladı.
+[Kat 6] Daire 4: Tesisat işlemi başladı.
+[Kat 6] Daire 2: Tesisat işlemi başladı.
+[Kat 6] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 6] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 6] Daire 1: İç tasarım başladı.
+[Kat 6] Daire 4: İç tasarım başladı.
+[Kat 6] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 6] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 6] Daire 2: İç tasarım başladı.
+[Kat 6] Daire 3: İç tasarım başladı.
+[Kat 6] Daire 1: İnşaat tamamlandı.
+[Kat 6] Daire 4: İnşaat tamamlandı.
+[Kat 6] Daire 3: İnşaat tamamlandı.
+[Kat 6] Daire 2: İnşaat tamamlandı.
+[Kat 6]: Kat inşaatı tamamlandı.
+[Kat 7]: Kat inşaatı başladı.
+[Kat 7] Daire 1: Tesisat işlemi başladı.
+[Kat 7] Daire 4: Tesisat işlemi başladı.
+[Kat 7] Daire 3: Tesisat işlemi başladı.
+[Kat 7] Daire 2: Tesisat işlemi başladı.
+[Kat 7] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 7] Daire 3: İç tasarım başladı.
+[Kat 7] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 7] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 7] Daire 4: İç tasarım başladı.
+[Kat 7] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 7] Daire 2: İç tasarım başladı.
+[Kat 7] Daire 1: İç tasarım başladı.
+[Kat 7] Daire 4: İnşaat tamamlandı.
+[Kat 7] Daire 1: İnşaat tamamlandı.
+[Kat 7] Daire 2: İnşaat tamamlandı.
+[Kat 7] Daire 3: İnşaat tamamlandı.
+[Kat 7]: Kat inşaatı tamamlandı.
+[Kat 8]: Kat inşaatı başladı.
+[Kat 8] Daire 3: Tesisat işlemi başladı.
+[Kat 8] Daire 1: Tesisat işlemi başladı.
+[Kat 8] Daire 2: Tesisat işlemi başladı.
+[Kat 8] Daire 4: Tesisat işlemi başladı.
+[Kat 8] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 8] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 8] Daire 4: İç tasarım başladı.
+[Kat 8] Daire 3: İç tasarım başladı.
+[Kat 8] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 8] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 8] Daire 1: İç tasarım başladı.
+[Kat 8] Daire 2: İç tasarım başladı.
+[Kat 8] Daire 4: İnşaat tamamlandı.
+[Kat 8] Daire 3: İnşaat tamamlandı.
+[Kat 8] Daire 1: İnşaat tamamlandı.
+[Kat 8] Daire 2: İnşaat tamamlandı.
+[Kat 8]: Kat inşaatı tamamlandı.
+[Kat 9]: Kat inşaatı başladı.
+[Kat 9] Daire 1: Tesisat işlemi başladı.
+[Kat 9] Daire 2: Tesisat işlemi başladı.
+[Kat 9] Daire 3: Tesisat işlemi başladı.
+[Kat 9] Daire 4: Tesisat işlemi başladı.
+[Kat 9] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 9] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 9] Daire 4: İç tasarım başladı.
+[Kat 9] Daire 1: İç tasarım başladı.
+[Kat 9] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 9] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 9] Daire 2: İç tasarım başladı.
+[Kat 9] Daire 3: İç tasarım başladı.
+[Kat 9] Daire 1: İnşaat tamamlandı.
+[Kat 9] Daire 4: İnşaat tamamlandı.
+[Kat 9] Daire 2: İnşaat tamamlandı.
+[Kat 9] Daire 3: İnşaat tamamlandı.
+[Kat 9]: Kat inşaatı tamamlandı.
+[Kat 10]: Kat inşaatı başladı.
+[Kat 10] Daire 3: Tesisat işlemi başladı.
+[Kat 10] Daire 2: Tesisat işlemi başladı.
+[Kat 10] Daire 1: Tesisat işlemi başladı.
+[Kat 10] Daire 4: Tesisat işlemi başladı.
+[Kat 10] Daire 4: Tesisat işlemi tamamlandı.
+[Kat 10] Daire 1: Tesisat işlemi tamamlandı.
+[Kat 10] Daire 3: Tesisat işlemi tamamlandı.
+[Kat 10] Daire 4: İç tasarım başladı.
+[Kat 10] Daire 3: İç tasarım başladı.
+[Kat 10] Daire 1: İç tasarım başladı.
+[Kat 10] Daire 2: Tesisat işlemi tamamlandı.
+[Kat 10] Daire 2: İç tasarım başladı.
+[Kat 10] Daire 2: İnşaat tamamlandı.
+[Kat 10] Daire 3: İnşaat tamamlandı.
+[Kat 10] Daire 1: İnşaat tamamlandı.
+[Kat 10] Daire 4: İnşaat tamamlandı.
+[Kat 10]: Kat inşaatı tamamlandı.
